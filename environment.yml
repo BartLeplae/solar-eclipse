@@ -1,0 +1,9 @@
+name: stellar-aberration-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10  # You can change this to your specific Python version
+  - numpy
+  - matplotlib
+  - ffmpeg
